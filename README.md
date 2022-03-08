@@ -1,2 +1,2 @@
 # web-scraping
-My Python code for basic website scraping
+Collection of my past Python codes for basic website scraping
